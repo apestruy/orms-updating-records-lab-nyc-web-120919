@@ -58,10 +58,10 @@ class Student
     	end.first
   end 
   
-  def 
+  def
   
   
-end
+  
 
 end
 
