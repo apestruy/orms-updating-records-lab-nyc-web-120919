@@ -40,7 +40,7 @@ class Student
     student 
   end 
   
-  def a 
+  def self.new_from_db(row)
     
   end 
 
