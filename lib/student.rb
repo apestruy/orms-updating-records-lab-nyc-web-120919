@@ -58,11 +58,11 @@ class Student
     	end.first
   end 
   
-  def
+  def update
   
   
   
-
+  end 
 end
 
 
