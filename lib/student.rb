@@ -40,6 +40,8 @@ class Student
     student 
   end 
   
+  def a 
+    
   end 
 
 end
